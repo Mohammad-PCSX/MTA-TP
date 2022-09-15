@@ -1,0 +1,4 @@
+<meta>
+    <info author="Mohammad_PCSX" version="1.0.0" name="TP" description="TP Sho" type="script"/>
+    <script src="Server.lua" type="server" />
+</meta>
